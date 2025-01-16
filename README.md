@@ -22,5 +22,5 @@
 
 
 ## CONTATO
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5553991971031)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([wa.me/5553991971031](https://api.whatsapp.com/send/?phone=5553991971031&text&type=phone_number&app_absent=0))
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NwYvPwnP)
